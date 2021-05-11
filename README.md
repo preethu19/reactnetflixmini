@@ -12,7 +12,7 @@ link : http://preethu19.github.io/reactnetflixmini
 
 • A glimpse of the web app:
 
- ![GIF](https://github.com/preethu19/interiorshop19/blob/main/interiorshopgif.gif)
+ ![GIF](https://github.com/preethu19/reactnetflixmini/blob/master/react-netflix-mini.gif)
 
 
 ## Installation

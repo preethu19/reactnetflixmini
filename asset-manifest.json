@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactnetflixmini/static/css/main.78172711.chunk.css",
+    "main.js": "/reactnetflixmini/static/js/main.a87fb1e5.chunk.js",
+    "main.js.map": "/reactnetflixmini/static/js/main.a87fb1e5.chunk.js.map",
+    "runtime-main.js": "/reactnetflixmini/static/js/runtime-main.fe69c2ac.js",
+    "runtime-main.js.map": "/reactnetflixmini/static/js/runtime-main.fe69c2ac.js.map",
+    "static/js/2.e7ed3260.chunk.js": "/reactnetflixmini/static/js/2.e7ed3260.chunk.js",
+    "static/js/2.e7ed3260.chunk.js.map": "/reactnetflixmini/static/js/2.e7ed3260.chunk.js.map",
+    "index.html": "/reactnetflixmini/index.html",
+    "static/css/main.78172711.chunk.css.map": "/reactnetflixmini/static/css/main.78172711.chunk.css.map",
+    "static/js/2.e7ed3260.chunk.js.LICENSE.txt": "/reactnetflixmini/static/js/2.e7ed3260.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe69c2ac.js",
+    "static/js/2.e7ed3260.chunk.js",
+    "static/css/main.78172711.chunk.css",
+    "static/js/main.a87fb1e5.chunk.js"
+  ]
+}
